@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.dangdang:elastic-job-lite-core:2.0.5-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://F:/apache-maven-3.3.3/.m2/repository/com/dangdang/elastic-job-lite-core/2.0.5-SNAPSHOT/elastic-job-lite-core-2.0.5-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://F:/apache-maven-3.3.3/.m2/repository/com/dangdang/elastic-job-lite-core/2.0.5-SNAPSHOT/elastic-job-lite-core-2.0.5-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://F:/apache-maven-3.3.3/.m2/repository/com/dangdang/elastic-job-lite-core/2.0.5-SNAPSHOT/elastic-job-lite-core-2.0.5-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

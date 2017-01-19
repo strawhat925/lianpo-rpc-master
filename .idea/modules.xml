@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/elastic-job-example/elastic-job-example.iml" filepath="$PROJECT_DIR$/elastic-job-example/elastic-job-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc-example/grpc-example.iml" filepath="$PROJECT_DIR$/grpc-example/grpc-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jetty-example/jetty-example.iml" filepath="$PROJECT_DIR$/jetty-example/jetty-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lianpo-rpc-core/lianpo-rpc-core.iml" filepath="$PROJECT_DIR$/lianpo-rpc-core/lianpo-rpc-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lianpo-rpc-demo/lianpo-rpc-demo.iml" filepath="$PROJECT_DIR$/lianpo-rpc-demo/lianpo-rpc-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lianpo-rpc-demo/lianpo-rpc-demo-api/lianpo-rpc-demo-api.iml" filepath="$PROJECT_DIR$/lianpo-rpc-demo/lianpo-rpc-demo-api/lianpo-rpc-demo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lianpo-rpc-demo/lianpo-rpc-demo-client/lianpo-rpc-demo-client.iml" filepath="$PROJECT_DIR$/lianpo-rpc-demo/lianpo-rpc-demo-client/lianpo-rpc-demo-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lianpo-rpc-demo/lianpo-rpc-demo-service/lianpo-rpc-demo-service.iml" filepath="$PROJECT_DIR$/lianpo-rpc-demo/lianpo-rpc-demo-service/lianpo-rpc-demo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lianpo-rpc-master.iml" filepath="$PROJECT_DIR$/lianpo-rpc-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lianpo-springsupport/lianpo-springsupport.iml" filepath="$PROJECT_DIR$/lianpo-springsupport/lianpo-springsupport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lianpo-zookeeper/lianpo-zookeeper.iml" filepath="$PROJECT_DIR$/lianpo-zookeeper/lianpo-zookeeper.iml" />
+    </modules>
+  </component>
+</project>
