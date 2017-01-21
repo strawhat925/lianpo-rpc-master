@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/elastic-job-example/elastic-job-example.iml" filepath="$PROJECT_DIR$/elastic-job-example/elastic-job-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/grpc-example/grpc-example.iml" filepath="$PROJECT_DIR$/grpc-example/grpc-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guava-example/guava-example.iml" filepath="$PROJECT_DIR$/guava-example/guava-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/jetty-example/jetty-example.iml" filepath="$PROJECT_DIR$/jetty-example/jetty-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/lianpo-rpc-core/lianpo-rpc-core.iml" filepath="$PROJECT_DIR$/lianpo-rpc-core/lianpo-rpc-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/lianpo-rpc-demo/lianpo-rpc-demo.iml" filepath="$PROJECT_DIR$/lianpo-rpc-demo/lianpo-rpc-demo.iml" />

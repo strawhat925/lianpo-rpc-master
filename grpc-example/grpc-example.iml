@@ -32,5 +32,6 @@
     <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:3.0.2" level="project" />
     <orderEntry type="library" name="Maven: io.grpc:grpc-protobuf-lite:1.0.3" level="project" />
     <orderEntry type="library" name="Maven: io.grpc:grpc-stub:1.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.16.4" level="project" />
   </component>
 </module>

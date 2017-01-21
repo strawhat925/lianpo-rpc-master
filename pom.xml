@@ -14,6 +14,7 @@
         <module>elastic-job-example</module>
         <module>grpc-example</module>
         <module>jetty-example</module>
+        <module>guava-example</module>
     </modules>
     <packaging>pom</packaging>
 
